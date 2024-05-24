@@ -1,0 +1,47 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(230, 239, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 0px;
+}
+.container{
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 1 1 10px rgfb(0,0,0,1);
+    width: 300px;
+}
+#Loginform{
+    background-color: white;
+}
+.loginformgroup{
+    margin-top: 10px;
+}
+
+.loginformgroup input{
+    width: 300px;
+    padding: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.btn{
+    background-color: rgb(77, 170, 77);
+    padding: 6px;
+    border: none;
+    border-radius: 4px;
+    width: 100%;
+    cursor: pointer;
+
+}
+.btn:hover{
+    background-color: rgb(18, 100, 18);
+}
