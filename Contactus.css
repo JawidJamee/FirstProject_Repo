@@ -1,0 +1,67 @@
+body{
+    background-image: url('imgbk.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.cntct{
+    background-color: #333;
+    width: 600px;
+    height: 700px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 60px;
+}
+
+#contactform h3{
+    color: white;
+    text-align: center;
+}
+#nam{
+    color: white;
+    
+}
+#nam input{
+    width: 416px;
+}
+
+#lnam{
+    color: white;
+    
+}
+#lnam input{
+    width: 416px;
+}
+
+
+#add{
+    color: white;
+}
+
+#add input{
+    
+    width: 416px;
+}
+
+#pnam{
+    color: white;
+}
+#pnam input{
+    width: 416px;
+}
+
+#mail{
+    color: white;
+}
+#mail input{
+    width: 416px;
+}
+
+#txtarea{
+    color: white;
+}

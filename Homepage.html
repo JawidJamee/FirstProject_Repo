@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="Homepage.css">
+</head>
+<body>
+
+        <header id="head">
+            <h1>Institute of Tech</h1>
+            
+        </header>
+        <nav>
+            <a href="#">Courses</a>
+            <a href="Aboutus.html">About us</a>
+            <a href="Contactus.html">Contact us</a>
+            <a id="log"href="Login.html">Login/Register</a>
+        </nav>
+        <main>
+            <div>
+                <!--home page-->
+                <div class="hmpra">
+                    <div class="text-container" id="auto-type-text"></div>
+                    <p>studying a practical IT course that exactly suits you?<br>
+                    Then take a close look at our departments and find your way into the IT industry.<br>
+                    Whether Frontend, Backend, Fullstack, Cybersecurity or other programming: We have the exact course for you!
+                    </p>
+                </div>
+                <div id="slide1">
+                    <img src="hmimg.png" alt=""><br>
+
+                </div>
+           
+            </div>
+
+             </div>
+        </main>
+
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function() {
+                const textElement = document.getElementById("auto-type-text");
+                const text = "Interested In Coding..?";
+                let index = 0;
+    
+                function type() {
+                    if (index < text.length) {
+                        textElement.textContent += text.charAt(index);
+                        index++;
+                        setTimeout(type, 150);
+                    } else {
+                        setTimeout(() => {
+                            textElement.textContent = '';
+                            index = 0;
+                            type();
+                        }, 2000);
+                    }
+                }
+    
+                type();
+            });
+        </script>
+
+</body>
+</html>
