@@ -13,37 +13,36 @@ Institute of Tech group.
 
 ## Courses
     -Courses navs you to the list of offered courses.
-  ![alt text](screenshot/homepage.png)
+  ![alt text](screenshot/homepage.png)\
   **Html Code**
-  ![alt text](screenshot/homecode.png)
+  ![alt text](screenshot/homecode.png)\
   **CSS Code**
-![alt text](screenshot/homecsscode.png)
+![alt text](screenshot/homecsscode.png)\
 
- 
 
 ## About us 
     - is a brief introduction about the Institute of Tect.
-  ![alt text](screenshot/aboutpage.png)
+  ![alt text](screenshot/aboutpage.png)\
   **Html Code**
-  ![alt text](screenshot/aboutuscode.png)
+  ![alt text](screenshot/aboutuscode.png)\
   **CSS Code**
-![alt text](<screenshot/Screenshot from 2024-05-28 13-58-28.png>)
+![alt text](<screenshot/Screenshot from 2024-05-28 13-58-28.png>)\
 
 ## Contact us 
     -helps you to reach out to the Institute.
-![alt text](screenshot/contactpage.png)
+![alt text](screenshot/contactpage.png)\
 **Html Code**
-![alt text](screenshot/contactcode.png)
+![alt text](screenshot/contactcode.png)\
 **CSS Code**
-![alt text](screenshot/contactcsscode.png)
+![alt text](screenshot/contactcsscode.png)\
 
 ## Login or Register
     -will helps you to login as a user or to register if you do not have an account.
-![alt text](screenshot/loinpage.png)
+![alt text](screenshot/loinpage.png)\
 **Html Code**
-![alt text](screenshot/logcode.png)
+![alt text](screenshot/logcode.png)\
 **CSS Code**
-![alt text](<screenshot/Screenshot from 2024-05-28 13-59-19.png>)
+![alt text](<screenshot/Screenshot from 2024-05-28 13-59-19.png>)\
 
 
 
